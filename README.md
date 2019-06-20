@@ -23,7 +23,9 @@ artrunseed
 artfactory (Nome)[Model]
 
  > Cria uma Factory com o (Nome)
+
  > ou se tiver a model
+
  > Cria uma Factory com o (Nome) e model [Model]
 
 artmiddle (Nome)
@@ -33,7 +35,9 @@ artmiddle (Nome)
 artmigrate [Parametro]
 
  > Caso não tenha o parametro
+
  > Executa a migration
+
  > Cato tenha passa o parametro (status/stat/rollback/reset/rst/refresh/ref)
 
 artmigration (Nome)(Tabela)
