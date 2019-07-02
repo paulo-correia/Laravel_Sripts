@@ -8,4 +8,4 @@ fi
 
 echo "Criando a Controller: "$1
 
-php artisan make:controller $1
+php artisan make:controller $1 $2

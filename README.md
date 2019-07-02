@@ -8,9 +8,9 @@ artmodel (Nome)
 
  > Cria uma Model com o (Nome)
 
-artcontrol (Nome)
+artcontrol (Nome)[Parametro]
 
- > Cria uma Controller com o (Nome)
+ > Cria uma Controller com o (Nome) e [Parametro]
 
 artmkseed (Nome)
 
@@ -42,4 +42,8 @@ artmigrate [Parametro]
 
 artmigration (Nome)(Tabela)
 
- > Cria uma Migration com o (Nome) e tabela (Tabela) 
+ > Cria uma Migration com o (Nome) e tabela (Tabela)
+
+artmkresource (Nome)
+
+ > Cria um Resource com o (Nome) 
